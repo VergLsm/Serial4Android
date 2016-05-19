@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/res/merged/debug/layout/serial_console.xml",
+        "source": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/layout/serial_console.xml"
+    },
+    {
+        "merged": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/layout/main.xml"
+    }
+]

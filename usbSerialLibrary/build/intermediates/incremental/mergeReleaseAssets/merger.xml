@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/verg/dev/AndroidProjects/Serial4Android/usbSerialLibrary/src/main/assets"/><source path="/home/verg/dev/AndroidProjects/Serial4Android/usbSerialLibrary/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/verg/dev/AndroidProjects/Serial4Android/usbSerialLibrary/src/release/assets"/></dataSet></merger>

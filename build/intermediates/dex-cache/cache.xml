@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb3834bf8111faf8838fd17be948c8734eda2f9f">
+        <dex dex="/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f15c3915676b519c140e8088d84aaaa0912d49b5/classes.dex" />
+    </item>
+    <item
+        jar="/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5734b54a9dcfd2d0d3de5345728a4e4c5af6e21">
+        <dex dex="/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f8fe296c92da821c4ad277d58865bfd234078dc9/classes.dex" />
+    </item>
+
+</items>

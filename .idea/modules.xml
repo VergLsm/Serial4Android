@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Serial4Android.iml" filepath="$PROJECT_DIR$/Serial4Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serial4Android/serial4Android.iml" filepath="$PROJECT_DIR$/serial4Android/serial4Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usbSerialLibrary/usbSerialLibrary.iml" filepath="$PROJECT_DIR$/usbSerialLibrary/usbSerialLibrary.iml" />
+    </modules>
+  </component>
+</project>

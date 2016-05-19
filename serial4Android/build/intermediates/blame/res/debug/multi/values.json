@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 51,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 52,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 50,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 50,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 35,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 35,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 41,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 41,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endColumn": 52,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "/home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            }
+        ]
+    }
+]

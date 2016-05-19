@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml
+		INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.usb.host
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:5:5-61
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:5:19-59
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:9:22-62
+application
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:11:5-37:19
+	android:label
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:12:9-45
+	android:logo
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:14:9-45
+activity#vis.study.Serial4Android.DeviceListActivity
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:15:9-32:20
+	android:label
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:18:13-77
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:16:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:22:17-75
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:22:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:23:27-74
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:25:13-27:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:26:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:29:13-31:56
+	android:resource
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:31:17-54
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:30:17-79
+activity#vis.study.Serial4Android.SerialConsoleActivity
+ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:33:9-36:79
+	android:label
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:35:13-45
+	android:theme
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:36:13-77
+	android:name
+		ADDED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml:34:13-49
+uses-sdk
+INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Serial4Android:usbSerialLibrary:unspecified] /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/build/intermediates/exploded-aar/Serial4Android/usbSerialLibrary/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml
+		INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml
+		INJECTED from /home/verg/dev/AndroidProjects/Serial4Android/serial4Android/src/main/AndroidManifest.xml
